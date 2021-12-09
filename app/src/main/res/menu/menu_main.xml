@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.joan.droidcafe.MainActivity">
+    <item
+        android:id="@+id/action_about_us"
+        android:orderInCategory="5"
+        android:title="@string/about_us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_baseline_shopping_cart"
+        android:title="@string/order"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_status"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_baseline_status"
+        android:title="@string/status"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_call"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_baseline_call"
+        android:title="@string/call_us"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_location"
+        android:orderInCategory="4"
+        android:icon="@drawable/ic_baseline_location"
+        android:title="@string/locate_us"
+        app:showAsAction="ifRoom" />
+</menu>

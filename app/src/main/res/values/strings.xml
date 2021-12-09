@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="droid_desserts">Droid Desserts</string>
+    <string name="choose_dessert">Choose A Dessert</string>
+    <string name="donut_description">Glazed donuts sprinkled with candy</string>
+    <string name="iceCream_description">Vanilla IceCream with Chocolate Syrup and Cherry on Top</string>
+    <string name="froyo_description">Blueberry Frozen Yoghurt with Raspberries</string>
+
+    <string name="donutOrder">You have ordered a Donut!</string>
+    <string name="iceCreamOrder">You have ordered Ice-cream!</string>
+    <string name="froyoOrder">You have ordered a FroYo!</string>
+    <string name="display_order_message_here">Display Order Message Here</string>
+    <string name="choose_delivery_method">Choose Delivery Method</string>
+    <string name="same_day_messenger_service">Same Day Messenger Service</string>
+    <string name="next_day_ground_delivery">Next Day Ground Delivery</string>
+    <string name="pick_up">Pick-Up</string>
+    <string name="about_us">About Us</string>
+    <string name="order">Order</string>
+    <string name="status">Status</string>
+    <string name="call_us">Call Us</string>
+    <string name="locate_us">Locate Us</string>
+    <string name="action_status_message">Your Order is Ready!</string>
+
+</resources>
